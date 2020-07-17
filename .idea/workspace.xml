@@ -21,8 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ae161a60-bc92-4e60-88c7-cb8395b0bf49" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrivatePolicy.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrivatePolicy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrivatePolicy_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrivatePolicy_cn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingModule_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/TradingModule_cn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_cn.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594981399763</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed privatePolicy page content error">
+      <created>1594985183216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594985183216</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,16 +91,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update title icon &amp; content" />
-    <option name="LAST_COMMIT_MESSAGE" value="update title icon &amp; content" />
+    <MESSAGE value="fixed privatePolicy page content error" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed privatePolicy page content error" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1594981403172">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1594985187098">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1594981403172" />
-    <state x="517" y="554" width="880" height="496" key="find.popup" timestamp="1594985043124">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1594985187098" />
+    <state x="411" y="308" width="880" height="605" key="find.popup" timestamp="1594987056100">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="517" y="554" width="880" height="496" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1594985043124" />
+    <state x="411" y="308" width="880" height="605" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1594987056100" />
   </component>
 </project>
