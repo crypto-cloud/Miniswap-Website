@@ -21,17 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae161a60-bc92-4e60-88c7-cb8395b0bf49" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrivatePolicy.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrivatePolicy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrivatePolicy_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/PrivatePolicy_cn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Privateplacement.html" beforeDir="false" afterPath="$PROJECT_DIR$/Privateplacement.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Privateplacement_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/Privateplacement_cn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradingModule.html" beforeDir="false" afterPath="$PROJECT_DIR$/TradingModule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradingModule_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/TradingModule_cn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TransactionPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/TransactionPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TransactionPage_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/TransactionPage_cn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_cn.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594994306732</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix bug">
+      <created>1595051615465</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595051615465</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +113,8 @@
     <MESSAGE value="fixed privatePolicy page content error" />
     <MESSAGE value="fixed bug" />
     <MESSAGE value="replace logo.png with logo.svg" />
-    <option name="LAST_COMMIT_MESSAGE" value="replace logo.png with logo.svg" />
+    <MESSAGE value="fix bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix bug" />
   </component>
   <component name="WindowStateProjectService">
     <state x="605" y="234" key="RollbackChangesDialog" timestamp="1594991866044">
