@@ -29,6 +29,7 @@
       <change beforePath="$PROJECT_DIR$/TradingModule_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/TradingModule_cn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TransactionPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/TransactionPage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TransactionPage_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/TransactionPage_cn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_cn.html" afterDir="false" />
     </list>
@@ -85,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594987084038</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="replace logo.png with logo.svg">
+      <created>1594994306732</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594994306732</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,20 +115,21 @@
     <MESSAGE value="update title icon &amp; content" />
     <MESSAGE value="fixed privatePolicy page content error" />
     <MESSAGE value="fixed bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed bug" />
+    <MESSAGE value="replace logo.png with logo.svg" />
+    <option name="LAST_COMMIT_MESSAGE" value="replace logo.png with logo.svg" />
   </component>
   <component name="WindowStateProjectService">
     <state x="605" y="234" key="RollbackChangesDialog" timestamp="1594991866044">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="605" y="234" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1594991866044" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1594987085465">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1594994308858">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1594987085465" />
-    <state x="149" y="187" width="1531" height="682" key="find.popup" timestamp="1594992859301">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1594994308858" />
+    <state x="149" y="187" width="1531" height="682" key="find.popup" timestamp="1595043659139">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="149" y="187" width="1531" height="682" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1594992859301" />
+    <state x="149" y="187" width="1531" height="682" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595043659139" />
   </component>
 </project>
