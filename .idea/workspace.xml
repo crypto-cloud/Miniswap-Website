@@ -20,14 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae161a60-bc92-4e60-88c7-cb8395b0bf49" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/js/getMiniData.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Privateplacement.html" beforeDir="false" afterPath="$PROJECT_DIR$/Privateplacement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Privateplacement_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/Privateplacement_cn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index_cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_cn.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.14.3/libexec" />
   <component name="Git.Settings">
@@ -47,6 +58,12 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -98,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595052962973</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fix bug">
+      <created>1595055143604</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1595055143604</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix bug">
+      <created>1595064312119</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595064312119</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,13 +160,17 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="605" y="234" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1594991866044" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1595052965526">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1595064315855">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1595052965526" />
-    <state x="149" y="187" width="1531" height="682" key="find.popup" timestamp="1595043659139">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1595064315855" />
+    <state x="617" y="266" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1595061747088">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="149" y="187" width="1531" height="682" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595043659139" />
+    <state x="617" y="266" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1595061747088" />
+    <state x="-273" y="263" width="1531" height="682" key="find.popup" timestamp="1595064198077">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="-273" y="263" width="1531" height="682" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595064198077" />
   </component>
 </project>

@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="css/idangerous.swiper2.7.6.css">
 <link href="css/animate.min.css" rel="stylesheet" type="text/css" />
 <script src="js/jquery-1.7.2.min.js"></script>
+<script src="js/main.js"></script>
 <script src="js/idangerous.swiper2.7.6.min.js"></script>
     <!--[if lt IE 9]>
 	<script src="js/html5shiv.min.js"></script>
@@ -137,24 +138,24 @@ And so on...</p>
             <div class="con4r r">
                 <div class="con4rt xi20 cen bai wow animated fadeInUp">
                     Current Exchange Ratio<br>
-                    <span>1 ETH</span> = <span>100901 MINI</span>
+                    <span>1 ETH</span> = <span name="ratio">100901 MINI</span>
                 </div>
-                <div class="con4rm xi14 bai cen wow animated fadeInUp">Proportional Surpuls:<span>2018039  MINI</span></div>
+                <div class="con4rm xi14 bai cen wow animated fadeInUp">Proportional Surpuls:<span name="balance_amount">2018039  MINI</span></div>
                 <div class="con4rf wow animated">
-                    <div class="con4rft xi12 wow animated fadeInLeft">100% remaining</div>
+                    <div class="con4rft xi12 wow animated fadeInLeft"><span name="balance_ratio">100</span>% remaining</div>
                     <div class="con4rfm">
-                        <div class="con4rfmz wow animated fadeInLefts">20ETH : 2018039MINI</div>
+                        <div name="l0" class="con4rfmz wow animated fadeInLefts"></div>
                     </div>
                     <div class="con4rff">
                         <ul>
-                            <li>30ETH : 2815164MINI</li>
-                            <li>40ETH : 3490804MINI</li>
-                            <li>50ETH : 4528794MINI</li>
-                            <li>60ETH : 4913742MINI</li>
-                            <li>70ETH : 5222606MINI</li>
-                            <li>310ETH : 3813000MINI</li>
-                            <li>......</li>
-                            <li>......</li>
+                            <li name="l1"></li>
+                            <li name="l2"></li>
+                            <li name="l3"></li>
+                            <li name="l4"></li>
+                            <li name="l5"></li>
+                            <li name="l6"></li>
+                            <li name="l7"></li>
+                            <li name="l8"></li>
                             <li></li>
                             <li></li>
                         </ul>
@@ -206,8 +207,6 @@ And so on...</p>
         </div>
     </div>
 </div>
-
-
 
 <div class="sj mg2">
     <div class="top mg2 wow animated fadeInUp">
@@ -314,24 +313,24 @@ And so on...</p>
             <div class="con4r">
                 <div class="con4rt xi28 cen bai wow animated fadeInUp">
                     Current Exchange Ratio<br>
-                    <span>1 ETH</span> = <span>100901 MINI</span>
+                    <span>1 ETH</span> = <span name="ratio">100901 MINI</span>
                 </div>
-                <div class="con4rm xi20 bai cen wow animated fadeInUp">Proportional Surpuls:<span>2018039  MINI</span></div>
+                <div class="con4rm xi20 bai cen wow animated fadeInUp">Proportional Surpuls:<span name="balance_amount">2018039  MINI</span></div>
                 <div class="con4rf">
-                    <div class="con4rft xi18 wow animated fadeInLeft">100% remaining</div>
+                    <div class="con4rft xi18 wow animated fadeInLeft"><span name="balance_ratio">100</span>% remaining</div>
                     <div class="con4rfm">
-                        <div class="con4rfmz wow animated fadeInLeft">20ETH : 2018039MINI</div>
+                        <div name="l0" class="con4rfmz wow animated fadeInLeft"></div>
                     </div>
                     <div class="con4rff wow animated fadeInUp">
                         <ul>
-                            <li>30ETH : 2815164MINI</li>
-                            <li>40ETH : 3490804MINI</li>
-                            <li>50ETH : 4528794MINI</li>
-                            <li>60ETH : 4913742MINI</li>
-                            <li>70ETH : 5222606MINI</li>
-                            <li>310ETH : 3813000MINI</li>
-                            <li>......</li>
-                            <li>......</li>
+                            <li name="l1"></li>
+                            <li name="l2"></li>
+                            <li name="l3"></li>
+                            <li name="l4"></li>
+                            <li name="l5"></li>
+                            <li name="l6"></li>
+                            <li name="l7"></li>
+                            <li name="l8"></li>
                             <li></li>
                             <li></li>
                         </ul>
@@ -409,10 +408,11 @@ wow = new WOW(
 {animateClass: 'animated',
 offset:100});
 wow.init();
-document.getElementById('moar').onclick = function() {
-var section = document.createElement('section');
-section.className = 'section--purple wow fadeInDown';
-this.parentNode.insertBefore(section, this);};
+// document.getElementById('moar').onclick = function() {
+// var section = document.createElement('section');
+// section.className = 'section--purple wow fadeInDown';
+// this.parentNode.insertBefore(section, this);};
+
 </script>
 
 </body>
