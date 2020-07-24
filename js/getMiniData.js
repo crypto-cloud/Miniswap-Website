@@ -1081,6 +1081,6 @@ var setL = (k)=>{
 }
 
 exec();
-setInterval(async  ()=>{
-   await exec();
-},10000)
+// setInterval(async  ()=>{
+//    await exec();
+// },10000)
