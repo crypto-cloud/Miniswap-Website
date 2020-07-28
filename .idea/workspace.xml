@@ -21,80 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae161a60-bc92-4e60-88c7-cb8395b0bf49" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrivatePolicy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrivatePolicy_cn.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Privateplacement.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Privateplacement_cn.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradingModule.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradingModule_cn.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TransactionPage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TransactionPage_cn.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/idangerous.swiper2.7.6.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/title.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wap-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/wap-logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_cn.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/getMiniData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/html5shiv.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/idangerous.swiper2.7.6.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-1.7.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/mjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/respond.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/wow.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/whitepaper.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/whitepaper_cn.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/private-placement.html" beforeDir="false" afterPath="$PROJECT_DIR$/private-placement.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +47,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -130,6 +58,10 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cn" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/js" />
     </key>
@@ -219,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595558010454</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="new resource">
+      <created>1595851130229</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1595851130229</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,21 +185,23 @@
     <MESSAGE value="private placement related to the logic of display" />
     <MESSAGE value="update icon and add Twitter link" />
     <MESSAGE value="add main.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add main.js" />
+    <MESSAGE value="new resource" />
+    <option name="LAST_COMMIT_MESSAGE" value="new resource" />
   </component>
   <component name="WindowStateProjectService">
     <state x="723" y="395" key="#Notifications" timestamp="1595250707281">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="723" y="395" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1595250707281" />
-    <state x="605" y="234" key="RollbackChangesDialog" timestamp="1594991866044">
+    <state x="605" y="234" key="RollbackChangesDialog" timestamp="1595908340038">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="605" y="234" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1594991866044" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1595558013269">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="605" y="234" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1595908340038" />
+    <state x="440" y="264" key="Vcs.Push.Dialog.v2" timestamp="1595851131777">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1595558013269" />
+    <state x="440" y="264" key="Vcs.Push.Dialog.v2/0.23.1680.956@0.23.1680.956" timestamp="1595851131777" />
     <state x="617" y="266" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1595557993130">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
